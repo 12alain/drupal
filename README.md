@@ -54,7 +54,7 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 ### ✅ Étape 4 : Création de la vue `Catalogue de ressources`
 - Filtres : thème, auteur
 - Format : tableau ou liste HTML
-![Ressource scientifique](Catalogue.JPG)
+![Ressource scientifique](Cathologue.JPG)
 
 ### ✅ Étape 5 : Ajout de ressources de test
 
