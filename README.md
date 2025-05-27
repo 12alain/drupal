@@ -57,7 +57,7 @@ Créer un mini portail Drupal  permettant :
 ![Ressource scientifique](Cathologue.JPG)
 
 ### ✅ Étape 5 : Ajout de ressources de test
-![Ressource scientifique](ressource de test.JPG)
+![Ressource scientifique](ressource_de_test.JPG)
 
 
 ## 🧾 Auteur
