@@ -40,7 +40,8 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 ## 🔧 Étapes de mise en œuvre
 
 ### ✅ Étape 1 : Création du type de contenu `Ressource scientifique`
-📸 *Insérer une capture d’écran du formulaire de création*
+![Ressource scientifique](chemin/vers/image.png)
+
 
 ### ✅ Étape 2 : Création de la taxonomie `Thèmes`
 📸 *Insérer une capture de la liste de termes*
