@@ -44,7 +44,8 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 
 
 ### ✅ Étape 2 : Création de la taxonomie `Thèmes`
-📸 *Insérer une capture de la liste de termes*
+![Ressource scientifique](taxonomie.JPG)
+
 
 ### ✅ Étape 3 : Ajout du champ `Mots-clés`
 📸 *Capture de la configuration du champ (Référence à un terme)*
