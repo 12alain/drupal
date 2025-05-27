@@ -6,7 +6,7 @@ Projet démonstratif réalisé pour montrer la maîtrise de Drupal dans un conte
 
 ## 🎯 Objectif
 
-Créer un mini portail Drupal de type "Obvia", permettant :
+Créer un mini portail Drupal  permettant :
 - l’ajout et la classification de ressources scientifiques,
 - l’organisation par taxonomie thématique,
 - l’affichage structuré avec filtres.
@@ -28,7 +28,7 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 ### 📄 Types de contenu
 
 - `Ressource scientifique` : titre, auteur, résumé, fichier PDF, mots-clés
-- `Chercheur` (optionnel) : nom, bio, photo, ressources liées
+
 
 ### 🏷 Taxonomie
 
@@ -57,42 +57,8 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 ![Ressource scientifique](Cathologue.JPG)
 
 ### ✅ Étape 5 : Ajout de ressources de test
+![Ressource scientifique](Cathologue.JPG)
 
-| Titre | Auteur |
-|-------|--------|
-| L’IA et la justice sociale | Martin Dubois |
-| Données ouvertes et gouvernance numérique | Alice Martin |
-| Santé environnementale et technologies prédictives | Jean Dupont |
-| Vers une IA éthique pour les villes intelligentes | Nadia Larivière |
-| Inclusion numérique en contexte autochtone | Samuel Drouin |
-
-📸 *Capture du back-office : `/admin/content`*
-
-### ✅ Étape 6 : Mise en forme personnalisée
-- Utilisation du style « Liste HTML »
-- Réécriture du champ `Fichier` avec lien "Télécharger PDF"
-📸 *Capture du rendu final*
-
----
-
-## 📂 Dossier du projet
-
-- `config/sync/` : export de la configuration Drupal *(facultatif)*
-- `files/` : exemples de PDF téléversés
-- `themes/obvia_theme/` : thème personnalisé *(si utilisé)*
-
----
-
-## 📷 Captures recommandées
-
-1. Formulaire `Ressource scientifique`
-2. Taxonomie `Thèmes`
-3. Champ `Mots-clés` configuré
-4. Vue filtrable : catalogue
-5. Page publique avec rendu final
-6. Back-office `/admin/content`
-
----
 
 ## 🧾 Auteur
 
