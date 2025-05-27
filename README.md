@@ -48,12 +48,13 @@ Créer un mini portail Drupal de type "Obvia", permettant :
 
 
 ### ✅ Étape 3 : Ajout du champ `Mots-clés`
-📸 *Capture de la configuration du champ (Référence à un terme)*
+![Ressource scientifique](motcles.JPG)
+
 
 ### ✅ Étape 4 : Création de la vue `Catalogue de ressources`
 - Filtres : thème, auteur
 - Format : tableau ou liste HTML
-📸 *Capture de la page publique avec filtres activés*
+![Ressource scientifique](Catalogue.JPG)
 
 ### ✅ Étape 5 : Ajout de ressources de test
 
